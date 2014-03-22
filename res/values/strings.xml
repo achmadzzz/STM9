@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">RBMS-SMS</string>
+    <string name="action_settings">Settings</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="recipient">Recipient</string>
+    <string name="sixteencharseckey">16-Character Secret Key:</string>
+    <string name="message">Message:</string>
+    <string name="send">Send</string>
+	<string name="cancel">Cancel</string>
+	<string name="sender">Sender:</string>
+	<string name="receiveencmes">Received Encrypted Message:</string>
+    <string name="decmes">Decrypted Message:</string>
+    <string name="submit">Submit</string>
+
+</resources>
